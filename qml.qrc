@@ -53,5 +53,6 @@
         <file>pictureQuiz_S.qml</file>
         <file>select.qml</file>
         <file>sequence_S.qml</file>
+        <file>select_kind.qml</file>
     </qresource>
 </RCC>
