@@ -36,5 +36,6 @@
         <file>imports/Coffee/qmldir</file>
         <file>imports/Coffee/TitilliumWeb-Regular.ttf</file>
         <file>dictation.qml</file>
+        <file>pictureQuiz_S.qml</file>
     </qresource>
 </RCC>
