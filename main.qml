@@ -10,14 +10,14 @@ Item {
     Image {
         anchors.fill: parent
         anchors.margins: 20
-        source: "images/background1.png"
+        source: "qrc:images/background1.png"
         fillMode: Image.PreserveAspectFit
     }
 
 
     // 로고 이미지
     Image {
-        source: "images/logo.png"
+        source: "qrc:images/logo.png"
         width: 80
         height: 80
         anchors.left: parent.left

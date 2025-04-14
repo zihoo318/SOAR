@@ -35,7 +35,22 @@
         <file>imports/Coffee/Constants.qml</file>
         <file>imports/Coffee/qmldir</file>
         <file>imports/Coffee/TitilliumWeb-Regular.ttf</file>
+        <file>images/correct_answer.png</file>
+        <file>images/ex_dictation.png</file>
+        <file>images/ex_picture_quiz.png</file>
+        <file>images/ex_sequence_arrangement.png</file>
+        <file>images/fixed_background1.png</file>
+        <file>images/fixed_background2.png</file>
+        <file>images/fixed_background3.png</file>
+        <file>images/logo.png</file>
+        <file>images/logo2.png</file>
+        <file>images/picture_ex1.png</file>
+        <file>images/picture_ex2.png</file>
+        <file>images/speaker.png</file>
+        <file>images/submit_button.png</file>
+        <file>images/wrong_answer.png</file>
         <file>dictation.qml</file>
         <file>pictureQuiz_S.qml</file>
+        <file>select.qml</file>
     </qresource>
 </RCC>
