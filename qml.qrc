@@ -54,5 +54,6 @@
         <file>select.qml</file>
         <file>sequence_S.qml</file>
         <file>select_kind.qml</file>
+        <file>score.qml</file>
     </qresource>
 </RCC>
