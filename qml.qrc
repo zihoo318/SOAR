@@ -52,5 +52,6 @@
         <file>dictation.qml</file>
         <file>pictureQuiz_S.qml</file>
         <file>select.qml</file>
+        <file>sequence_S.qml</file>
     </qresource>
 </RCC>
