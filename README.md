@@ -24,8 +24,6 @@ https://docs.qualcomm.com/bundle/publicresource/topics/80-63442-50/linux_setup.h
 
 ---
 
-![화면 캡처 2025-03-31 000436.png](attachment:198f3a32-8200-4816-909e-2d453898b582:화면_캡처_2025-03-31_000436.png)
-
 - **프로젝트 정의**
 
 **SOAR(Spelling Optimization with AI and Recognition)**는 모국어 기초 교육이 필요한 사람들을 위한 오프라인 AI 기반 학습 시스템입니다.
